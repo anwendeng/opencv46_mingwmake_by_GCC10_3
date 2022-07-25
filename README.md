@@ -16,3 +16,5 @@ install
 
 vscode可參考影片
 https://www.youtube.com/watch?v=zJTke_BWlD0
+dev C++搭配TMD-GCC 10.3播放影片可參考
+https://youtu.be/CGmvcV7UfLY
